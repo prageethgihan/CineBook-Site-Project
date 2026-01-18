@@ -1,0 +1,9 @@
+{
+  "name": "cinebook-site-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm run client\" \"npm run server\"",
+    "client": "cd Client && npm run dev",
+    "server": "cd Server && npm start"
+  }
+}
