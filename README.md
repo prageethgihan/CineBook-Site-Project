@@ -50,16 +50,6 @@ Follow these steps to get the project up and running on your local machine:
 * **Hot-reloading:** Development environment supports instant code updates via Docker Volumes.
 * **Responsive Design:** Fully optimized for mobile and desktop views.
 
-## 👥 Meet the Team (Group 07)
-| Name | Role | Student ID |
-| :--- | :--- | :--- |
-| **Prageeth Gihan** |  | 10952397 |
-| J P R Savindya  |  | 10953234 |
-| Wanni Chethana  |  | 10953212 |
-| Welikala Welikala |  | 10952729 |
-| Kodippili Dinuradee |  | 10953513 |
-| Tikithanthiri Gunasekara |  | 10903085 |
-| Rathnayaka Rathnayaka |  | 10953055 |
 
 
 ---
